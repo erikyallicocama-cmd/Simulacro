@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: products-container
-        image: 17-erikson-yallico:1.0
+        image: erikson1999/17-erikson-yallico:1.0
         ports:
         - containerPort: 8080
         env:
